@@ -1,0 +1,3 @@
+config HELLO_MODULE
+	tristate "HELLO HELLO_MODULE"
+	default y
