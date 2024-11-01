@@ -1,0 +1,2 @@
+trunk/linux-3.4.x/kernel/sched/core.c 是进程相关的一个核心文件，同学们在必要函数前加注释，画出大体调度流程。
+trunk/linux-3.4.x/mm/page_alloc.c 是内存管理相关的一个核心文件，同学们在必要函数前加注释，画出大体分配流程。
